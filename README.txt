@@ -1,44 +1,44 @@
-Projeto: Cidade Solidária.
+Projeto: Cidade SolidÃ¡ria.
 Autor: Rivaildo Ferreira
-Contribuição: Igor Kazuhiko
+ContribuiÃ§Ã£o: Igor Kazuhiko
 
-IFSP - Instituto Federal de Educação, Ciências e Tecnologia de São Paulo.
-Campus São Paulo.
-Tecnólogo em Análise e Desenvolvimento de Sistemas.
+IFSP - Instituto Federal de EducaÃ§Ã£o, CiÃªncias e Tecnologia de SÃ£o Paulo.
+Campus SÃ£o Paulo.
+TecnÃ³logo em AnÃ¡lise e Desenvolvimento de Sistemas.
 
-O projeto é o trabalho final da disciplina de Estrutura de Dados, que deverá ser entregue como forma de avaliação semestral.
-Trata-se de uma aplicação (em Linguagem C) utilizando estruturas de dados no contexto do
-gerenciamento de ação solidária de distribuição de alimentos, cestas de higiene e limpeza.
+O projeto Ã© o trabalho final da disciplina de Estrutura de Dados, que deverÃ¡ ser entregue como forma de avaliaÃ§Ã£o semestral.
+Trata-se de uma aplicaÃ§Ã£o (em Linguagem C) utilizando estruturas de dados no contexto do
+gerenciamento de aÃ§Ã£o solidÃ¡ria de distribuiÃ§Ã£o de alimentos, cestas de higiene e limpeza.
 
 
 
 Sobre o funcionamento do projeto:
 
 Login de acesso:
-Ao iniciar a execução, exibir uma tela de login para que o gestor responsável pela respectiva Organização da
-Sociedade Civil (OSC) se identifique com o e-mail e CNPJ da instituição.
+Ao iniciar a execuÃ§Ã£o, exibir uma tela de login para que o gestor responsÃ¡vel pela respectiva OrganizaÃ§Ã£o da
+Sociedade Civil (OSC) se identifique com o e-mail e CNPJ da instituiÃ§Ã£o.
 
 Cadastro de entidades da sociedade civil (OSC):
-A opção “1.Cadastro de entidades da sociedade civil” deve permitir que sejam cadastradas novas entidades que
-desejarem fazer parte do programa Cidade Solidária, ajudando a entregar mantimentos doados para famílias
-carentes da cidade. Adicionalmente, o programa deve possibilitar a consulta de entidades já cadastradas em
+A opÃ§Ã£o â€œ1.Cadastro de entidades da sociedade civilâ€ deve permitir que sejam cadastradas novas entidades que
+desejarem fazer parte do programa Cidade SolidÃ¡ria, ajudando a entregar mantimentos doados para famÃ­lias
+carentes da cidade. Adicionalmente, o programa deve possibilitar a consulta de entidades jÃ¡ cadastradas em
 OSC.DAT.
 
 Cadastro de assistidos:
-A opção “2.Cadastro de assistidos” deve permitir que sejam armazenadas informações sobre os responsáveis
-pelas famílias que receberão os donativos no arquivo ASSISTIDOS.DAT3. 
-Adicionalmente, o programa deve possibilitar a consulta de entidades já cadastradas em ASSISTIDOS.DAT.
+A opÃ§Ã£o â€œ2.Cadastro de assistidosâ€ deve permitir que sejam armazenadas informaÃ§Ãµes sobre os responsÃ¡veis
+pelas famÃ­lias que receberÃ£o os donativos no arquivo ASSISTIDOS.DAT3. 
+Adicionalmente, o programa deve possibilitar a consulta de entidades jÃ¡ cadastradas em ASSISTIDOS.DAT.
 
 Cadastro de donativos:
-A opção “3.Cadastro de donativos” deve permitir que sejam armazenadas informações a respeito dos itens que
-serão doados aos assistidos.
+A opÃ§Ã£o â€œ3.Cadastro de donativosâ€ deve permitir que sejam armazenadas informaÃ§Ãµes a respeito dos itens que
+serÃ£o doados aos assistidos.
 
 Atendimento:
-Nessa etapa são entregues as cestas básicas aos assistidos que residam no mesmo BAIRRO da "Localidade para a
-qual se destinarão as doações".
+Nessa etapa sÃ£o entregues as cestas bÃ¡sicas aos assistidos que residam no mesmo BAIRRO da "Localidade para a
+qual se destinarÃ£o as doaÃ§Ãµes".
 
 Sobre:
 Apresenta a disciplina, a docente e os desenvolvedores do projeto.
 
 
-Endereço: https://github.com/F3RREIRA/EDDA2.git
+https://github.com/F3RREIRA/EDDA2
